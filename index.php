@@ -7,5 +7,7 @@
   <input type="number" name="Square">
   <p>Address</p>
   <input type="text" name="Address">
+  <p>Phone</p>
+  <input type="tel" name="Phone">
   <button type="submit">Add</button>
 </form>
