@@ -8,6 +8,6 @@
   <p>Address</p>
   <input type="text" name="Address">
   <p>Phone</p>
-  <input type="tel" name="Phone">
+  <input type="text" name="Phone">
   <button type="submit">Add</button>
 </form>
